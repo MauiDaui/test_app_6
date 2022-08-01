@@ -25,3 +25,6 @@ Things you may want to cover:
 
 
 UN NUEVO COMENTARIO EN EL README PARA DOCUMENTAR LO QUE ESTA OCURRIENDO. ASI COMO SER LA PRIMERA PRUEBA DEL GIT COMMIT
+
+
+First Test repo on the comple ruby on rails course
